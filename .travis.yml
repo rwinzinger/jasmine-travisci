@@ -6,5 +6,5 @@ node_js:
 #  - "0.6"
 deploy:
   provider: heroku
-  api_key: "b11f3615-439c-418e-b886-b97412042820"
+  api_key: "XXXXXXXX-439c-418e-b886-XXXXXXXXXXXX"
   app: nodejs-book-travis-deploy-test
