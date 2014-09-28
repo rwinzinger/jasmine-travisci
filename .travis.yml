@@ -4,3 +4,7 @@ node_js:
   - "0.10"
   - "0.8"
   - "0.6"
+deploy:
+  provider: heroku
+  api_key: "b11f3615-439c-418e-b886-b97412042820"
+  app: travis-deploy-test
