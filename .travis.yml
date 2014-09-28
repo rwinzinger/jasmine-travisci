@@ -4,7 +4,7 @@ node_js:
   - "0.10"
 #  - "0.8"
 #  - "0.6"
-deploy:
-  provider: heroku
-  api_key: "XXXXXXXX-439c-418e-b886-XXXXXXXXXXXX"
-  app: nodejs-book-travis-deploy-test
+#deploy:
+#  provider: heroku
+#  api_key: "XXXXXXXX-439c-418e-b886-XXXXXXXXXXXX"
+#  app: nodejs-book-travis-deploy-test
