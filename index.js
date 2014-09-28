@@ -2,7 +2,7 @@ var restify = require('restify');
 var sequence = require('./sequence.js');
 
 var server = restify.createServer();
-sequence.initialize(18773);
+sequence.initialize(20770);
 
 server.get('/sequence/next', function (req, res, next) {
   res.send({
